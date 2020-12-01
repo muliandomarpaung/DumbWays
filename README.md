@@ -1,5 +1,3 @@
-# DumbWays
-# Heading
 ## SubHeading
 Nama gua ecko mata sekali kedip
 
